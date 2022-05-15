@@ -1,9 +1,9 @@
 accessWidener   v1  named
 
-# Classes
+# customuv
 accessible  class   net/minecraft/client/model/ModelPart$Quad
 accessible  class   net/minecraft/client/model/ModelPart$Vertex
 extendable  class   net/minecraft/client/model/ModelPart
 
-# Fields
-# accessible  field   net/minecraft/client/model/ModelPart    cuboids Ljava/util/List
+# sound
+accessible  class   net/minecraft/client/sound/SoundManager$SoundList

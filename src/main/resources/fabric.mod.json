@@ -23,7 +23,8 @@
   },
   "mixins": [
     "oppai.mixins.json",
-    "customuv.mixins.json"
+    "customuv.mixins.json",
+    "sound.mixins.json"
   ],
 
   "depends": {
@@ -36,5 +37,5 @@
     "another-mod": "*"
   },
 
-  "accessWidener" : "customuv.accesswidener"
+  "accessWidener" : "puella.accesswidener"
 }
