@@ -1,0 +1,9 @@
+accessWidener   v1  named
+
+# Classes
+accessible  class   net/minecraft/client/model/ModelPart$Quad
+accessible  class   net/minecraft/client/model/ModelPart$Vertex
+extendable  class   net/minecraft/client/model/ModelPart
+
+# Fields
+# accessible  field   net/minecraft/client/model/ModelPart    cuboids Ljava/util/List
