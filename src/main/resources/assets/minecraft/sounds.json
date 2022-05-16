@@ -1,0 +1,9 @@
+{
+  "entity.player.burp": {
+    "sounds": [
+      "amitaro:oishii_01",
+      "amitaro:oishii_02",
+      "amitaro:oishii_03"
+    ]
+  }
+}

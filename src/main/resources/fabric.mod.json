@@ -23,8 +23,7 @@
   },
   "mixins": [
     "oppai.mixins.json",
-    "customuv.mixins.json",
-    "sound.mixins.json"
+    "customuv.mixins.json"
   ],
 
   "depends": {
